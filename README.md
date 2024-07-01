@@ -1,5 +1,5 @@
 ### DigiLearn README
-Welcome to the DigiLearn repository! This project is an online learning platform focused on teaching coding skills to users of all levels. With our platform, users can learn at their own pace, from anywhere in the world, and get access to a wealth of resources, including hands-on projects, quizzes, and personalized feedback from instructors.
+Welcome to the DigiLearn repository! This project is an online learning platform focused on teaching coding skills to users of all levels. With our platform, users can learn at their own pace, from anywhere in the world, and get access to a wealth of resources, including hands-on projects, quizzes, and personalized feedback from instructors. app link: https://aarizquadir.github.io/DigiLearn-/
 
 ## Table of Contents
 The table of contents includes Features, Screenshots, Installation, Usage, Contributing, License, and Contact.
