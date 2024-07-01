@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DigiLearn-/static/css/main.cc2f7b61.css",
+    "main.js": "/DigiLearn-/static/js/main.46c73ca7.js",
+    "static/media/banner.mp4": "/DigiLearn-/static/media/banner.8e687823b1422880cc3f.mp4",
+    "static/media/Logo-Full-Light.png": "/DigiLearn-/static/media/Logo-Full-Light.acf26af9b68c907d11f4.png",
+    "static/media/TimelineImage.png": "/DigiLearn-/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
+    "static/media/Instructor.png": "/DigiLearn-/static/media/Instructor.8b4c4f204053f0dfe844.png",
+    "static/media/FoundingStory.png": "/DigiLearn-/static/media/FoundingStory.84f2828a5f4a9c08a802.png",
+    "static/media/bghome.svg": "/DigiLearn-/static/media/bghome.de04eae287ff1d29f0b1.svg",
+    "static/media/Compare_with_others.png": "/DigiLearn-/static/media/Compare_with_others.a849beb7dbec594a4f53.png",
+    "static/media/signup.webp": "/DigiLearn-/static/media/signup.ca14b58a7e3b648e4cb9.webp",
+    "static/media/login.webp": "/DigiLearn-/static/media/login.89d9fe055c2642cc767f.webp",
+    "static/media/Plan_your_lessons.png": "/DigiLearn-/static/media/Plan_your_lessons.0848277c6ae4d27c3f30.png",
+    "static/media/Know_your_progress.png": "/DigiLearn-/static/media/Know_your_progress.cf3ea1c51544985430d3.png",
+    "static/media/frame.png": "/DigiLearn-/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/aboutus1.webp": "/DigiLearn-/static/media/aboutus1.86606deea209badf5925.webp",
+    "static/media/aboutus2.webp": "/DigiLearn-/static/media/aboutus2.0a1cd797ce3a69e81830.webp",
+    "static/media/aboutus3.webp": "/DigiLearn-/static/media/aboutus3.f5cfba861877ea03735d.webp",
+    "static/media/Logo2.svg": "/DigiLearn-/static/media/Logo2.2d9e85de9e756cda89ffc4582338c939.svg",
+    "static/media/Logo1.svg": "/DigiLearn-/static/media/Logo1.73daf51e41d665299fc682bc3cb53878.svg",
+    "static/media/Logo3.svg": "/DigiLearn-/static/media/Logo3.0a56f78fead602f0d54c55ddcdf7e616.svg",
+    "static/media/Logo4.svg": "/DigiLearn-/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
+    "index.html": "/DigiLearn-/index.html",
+    "main.cc2f7b61.css.map": "/DigiLearn-/static/css/main.cc2f7b61.css.map",
+    "main.46c73ca7.js.map": "/DigiLearn-/static/js/main.46c73ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2f7b61.css",
+    "static/js/main.46c73ca7.js"
+  ]
+}
